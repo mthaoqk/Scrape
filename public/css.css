@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    background-color: #fff100;
+}
+p{
+    text-align: left;
+    
+}
+#notes{
+    text-align:left;
+}
+
+#right{
+    background-color: #e5222a;
+    color:white;
+}
+#left{
+    background-color: #066db2;
+}
+#scrape{
+    position: relative;
+    right: 15px;
+}
+#pTop {
+    text-align: center;
+}
